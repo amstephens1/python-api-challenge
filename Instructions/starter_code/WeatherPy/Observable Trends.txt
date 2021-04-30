@@ -1,0 +1,3 @@
+1. The maximum temperate of my sample cities had a clear correlation with the latitude as the latitude grew closer to zero.
+2. Cloudiness and wind speed show very little correlation when compared to latitude.
+3. The sample size of the northern vs the southern hemisphere was very different and could have impacted the trends in my plots. 
